@@ -1,4 +1,4 @@
-{
+d{
   "name": "sn-mojave-dark-mode",
   "version": "0.0.3",
   "main": "dist/mojave-dark-mode.css",
@@ -7,6 +7,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/matthew-cox/sn-theme-mojave-dark-mode.git"
+    "url": "git://github.com/fernando-mesquita/sn-theme-mojave-dark-mode.git"
   }
 }
