@@ -11,7 +11,7 @@ metatype: json
   "description": "Mojave Dark Mode theme",
   "url": "https://raw.githubusercontent.com/fernando-mesquita/sn-theme-mojave-dark-mode/master/mojave-dark-mode.css",
   "download_url": "https://github.com/fernando-mesquita/sn-theme-mojave-dark-mode/archive/refs/heads/master.zip",
-  "latest_url": "https://listed.to/my-plugin-json-link",
-  "marketing_url": "https://standardnotes.com/features/advanced-markdown",
-  "thumbnail_url": "https://domain.org/editors/adv-markdown.jpg"
+  "latest_url": "https://raw.githubusercontent.com/fernando-mesquita/sn-theme-mojave-dark-mode/master/mojave-plugin.json",
+  "marketing_url": "https://github.com/fernando-mesquita/sn-theme-mojave-dark-mode",
+  "thumbnail_url": "https://github.com/fernando-mesquita/sn-theme-mojave-dark-mode/raw/master/preview.png"
 }
