@@ -4,7 +4,7 @@
     "content_type": "SN|Component",
     "area": "themes",
     "version": "0.0.3",
-    "url": "https://raw.githubusercontent.com/fernando-mesquita/sn-theme-mojave-dark-mode/master/mojave-dark-mode.css"
+    "url": "https://raw.githubusercontent.com/fernando-mesquita/sn-theme-mojave-dark-mode/dist/master/mojave-dark-mode.css"
 }
 
 "dock_icon": {
