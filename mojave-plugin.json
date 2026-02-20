@@ -9,7 +9,7 @@ metatype: json
   "area": "themes",
   "version": "v0.0.3",
   "description": "Mojave Dark Mode theme",
-  "url": "https://raw.githubusercontent.com/fernando-mesquita/sn-theme-mojave-dark-mode/master/mojave-dark-mode.css",
+  "url": "https://raw.githubusercontent.com/fernando-mesquita/sn-theme-mojave-dark-mode/master/dist/mojave-dark-mode.css",
   "download_url": "https://github.com/fernando-mesquita/sn-theme-mojave-dark-mode/archive/refs/heads/master.zip",
   "latest_url": "https://raw.githubusercontent.com/fernando-mesquita/sn-theme-mojave-dark-mode/master/mojave-plugin.json",
   "marketing_url": "https://github.com/fernando-mesquita/sn-theme-mojave-dark-mode",
